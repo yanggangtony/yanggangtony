@@ -8,6 +8,6 @@ Excellent interpersonal as well as communication skills and enjoys a high pressu
 
 Now, I am working at DaoCloud.
 
-Backup ![](https://komarev.com/ghpvc/?username=yanggangtony)
+![](https://komarev.com/ghpvc/?username=yanggangtony)
 
 More details in https://github.com/yanggangtony/my-github-status.
