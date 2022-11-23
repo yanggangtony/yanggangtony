@@ -4,7 +4,7 @@ Educated and motivated software engineer, quick to ramp up with any existing dev
 
 Excellent interpersonal as well as communication skills and enjoys a high pressure team environment.
 
-I'm interested in kubernetes , container runtime  and container network.
+I'm interested in **Kubernetes** , **OpenShift** ,  **Container Runtimes**  and **Container networking**.
 
 More details in https://github.com/yanggangtony/my-github-status.
 
