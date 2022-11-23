@@ -4,7 +4,7 @@ Educated and motivated software engineer, quick to ramp up with any existing dev
 
 Excellent interpersonal as well as communication skills and enjoys a high pressure team environment.
 
-Now, I am working at DaoCloud.
+I'm interested in kubernetes , container runtime  and container network.
 
 More details in https://github.com/yanggangtony/my-github-status.
 
