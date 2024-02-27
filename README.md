@@ -1,10 +1,8 @@
-## Hi 👋 I am Yang Gang.
+## Hi 👋 I am 湛露先生.
 
 I’m currently working on  **Kubernetes & Containerd & Multi-Cloud** . 
 
 Certificate: [**CKA-2023-02**](https://github.com/yanggangtony/yanggangtony/blob/main/yanggang-cka-2023-02-25.png) . 
-
-If you are interested in me, please contact me through [**Weichat**](https://github.com/yanggangtony/yanggangtony/blob/main/weichat-friend.jpg) . 
 
 ![github contribution grid snake animation](https://github.com/yanggangtony/yanggangtony/blob/output/github-contribution-grid-snake.svg)
 
