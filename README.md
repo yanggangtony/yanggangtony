@@ -1,6 +1,10 @@
 ## Hi 👋 I am Yang Gang.
 
-I’m currently working on  **Kubernetes & Containerd & Multi-Cloud** . 
+I’m currently working on  **Golang & Kubernetes & Containerd & Multi-Cloud** . 
+
+I’m used to be working on  **Java & Php & Python** . 
+
+I love **Linux** , and always a **Back-End Engineer** . 
 
 Certificate: [**CKA-2023-02**](https://github.com/yanggangtony/yanggangtony/blob/main/yanggang-cka-2023-02-25.png) . 
 
